@@ -162,7 +162,12 @@ In this step, we will take the forked repository and clone it down to our machin
 * Open a terminal window and navigate to your Desktop.
 * Run `git clone [the url you copied]`.
   * <details>
+* Run `git push origin master`
+  * <details>
 
+    <summary> What does this do? </summary>
+
+    <br />
     <summary> What does this do? </summary>
 
     <br />
